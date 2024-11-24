@@ -1,7 +1,8 @@
-package com.goldsprite.testjitpack;
+package com.goldsprite.appdevframework.samples;
 
 import android.app.*;
 import android.os.*;
+import com.goldsprite.appdevframework.R;
 
 public class MainActivity extends Activity 
 {
@@ -10,7 +11,5 @@ public class MainActivity extends Activity
     {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.main);
-		
-		Hello.hello(this);
     }
 }

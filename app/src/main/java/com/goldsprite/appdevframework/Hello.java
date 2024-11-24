@@ -1,4 +1,5 @@
-package com.goldsprite.testjitpack;
+package com.goldsprite.appdevframework;
+
 import android.app.*;
 import android.widget.*;
 
