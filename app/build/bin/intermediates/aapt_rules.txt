@@ -1,0 +1,2 @@
+# Referenced at /storage/emulated/0/AppProjects/Projects/GitProjects/TestJitPack/app/build/bin/injected/AndroidManifest.xml:19
+-keep class com.goldsprite.testjitpack.MainActivity { <init>(); }
